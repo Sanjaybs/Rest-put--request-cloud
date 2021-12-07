@@ -8,7 +8,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 int value = analogRead(A0);
 
-String deviceId = "dshop00X"; // Change this to the name of your Yun or team, e.g. dshop002, dshop003, etc.
+String deviceId = "<device ID>"; // Change this to the name of your Arduino or team
 
 String url = "<insert your url here>";
 
